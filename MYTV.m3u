@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
-#EXTINF:86400,TRT 1
+#EXTINF:86400,master_720.m3u8
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:86400,TRT BELGESEL
+#EXTINF:86400,trt-belgesel.m3u8
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
-#EXTINF:60,TRT TURK
+#EXTINF:60,trt-turk.m3u8
 http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8
 #EXTINF:24,kanal-34.m3u8
 http://stream.tvcdn.net/yerel/kanal-34.m3u8
-#EXTINF:2590,KANAL 7
+#EXTINF:2590,kanal-7.m3u8
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 #EXTINF:2660,kanal-d.m3u8
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
